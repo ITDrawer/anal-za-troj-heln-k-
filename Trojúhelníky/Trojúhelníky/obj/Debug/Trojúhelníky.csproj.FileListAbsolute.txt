@@ -1,0 +1,7 @@
+C:\Users\kikiz\Desktop\it drawer codes\Trojúhelníky\Trojúhelníky\bin\Debug\Trojúhelníky.exe.config
+C:\Users\kikiz\Desktop\it drawer codes\Trojúhelníky\Trojúhelníky\bin\Debug\Trojúhelníky.exe
+C:\Users\kikiz\Desktop\it drawer codes\Trojúhelníky\Trojúhelníky\bin\Debug\Trojúhelníky.pdb
+C:\Users\kikiz\Desktop\it drawer codes\Trojúhelníky\Trojúhelníky\obj\Debug\Trojúhelníky.csproj.AssemblyReference.cache
+C:\Users\kikiz\Desktop\it drawer codes\Trojúhelníky\Trojúhelníky\obj\Debug\Trojúhelníky.csproj.CoreCompileInputs.cache
+C:\Users\kikiz\Desktop\it drawer codes\Trojúhelníky\Trojúhelníky\obj\Debug\Trojúhelníky.exe
+C:\Users\kikiz\Desktop\it drawer codes\Trojúhelníky\Trojúhelníky\obj\Debug\Trojúhelníky.pdb
