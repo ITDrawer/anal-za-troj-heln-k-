@@ -1,1 +1,1 @@
-# anal-za-troj-heln-k-
+# analyza trojuhelnik
